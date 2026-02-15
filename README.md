@@ -1,2 +1,2 @@
-# bmacdonald-editor.github.io-nonsense
+# MacDonald Editorial Nonsense
 Where I put my nonsense projects.
